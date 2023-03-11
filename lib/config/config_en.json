@@ -1,0 +1,418 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "logo",
+      "showMenu": true,
+      "showSearch": true,
+      "showLogo": true,
+      "showCart": true,
+      "showWishlist": true
+    },
+    {
+      "layout": "category",
+      "type": "icon",
+      "hideTitle": true,
+      "wrap": false,
+      "size": 0,
+      "radius": 50.0,
+      "items": [
+        {
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE0OTE2MjkxNzk3OA==",
+          "image": "https://cdn.shopify.com/s/files/1/0047/8022/8698/files/Lamp_Icon_30cc636e-574e-4dd2-ac93-c63968ab3bf4.png?v=1644914230",
+          "colors": [
+            "#3CC2BF",
+            "#3CC2BF"
+          ],
+          "originalColor": false
+        },
+        {
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE0ODYzMjA3NjM3OA==",
+          "image": "https://cdn.shopify.com/s/files/1/0047/8022/8698/files/Wall_Light_Icon_dd53dd79-2397-475d-b124-48e96e95474d.png?v=1644914230",
+          "colors": [
+            "#3E6AB5",
+            "#3E6AB5"
+          ]
+        },
+        {
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE0OTE2MjUyNDc2Mg==",
+          "image": "https://cdn.shopify.com/s/files/1/0047/8022/8698/files/chandelier_Icon_5f40ef59-017f-47bd-9a4e-238aadbc6f1c.png?v=1644914304",
+          "colors": [
+            "#53A2CC",
+            "#53A2CC"
+          ]
+        },
+        {
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzg5MzQ3NDU3MTE0",
+          "image": "https://cdn.shopify.com/s/files/1/0047/8022/8698/files/Hanginng_Light_Icon_0405736a-8d65-49fa-80e7-b0fe805ee1a9.png?v=1644914230",
+          "colors": [
+            "#53688A",
+            "#53688A"
+          ]
+        },
+        {
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzg5MTk5MDE4MDc0",
+          "image": "assets/icons/tabs/cob_icon.png",
+          "colors": [
+            "#53A2CC",
+            "#53A2CC"
+          ]
+        },
+        {
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkzMjc2MDc4MTcw",
+          "image": "assets/icons/tabs/gate_lights_icon.png",
+          "colors": [
+            "#12B58C",
+            "#12B58C"
+          ]
+        }
+      ]
+    },
+    {
+      "layout": "bannerImage",
+      "isSlider": true,
+      "autoPlay": false,
+      "showNumber": false,
+      "design": "default",
+      "showBackGround": true,
+      "radius": 2.0,
+      "items": [
+        {
+          "product": "6817043710042",
+          "image": "https://cdn.shopify.com/s/files/1/0047/8022/8698/files/shunya.png?v=1674035632",
+          "padding": 15.0
+        },
+        {
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MjQ0MjM4NTQ5OA==",
+          "image": "https://cdn.shopify.com/s/files/1/0047/8022/8698/files/duplex.png?v=1674035632",
+          "padding": 15.0
+        },
+        {
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2NTAyODA0Mjg0Mg==",
+          "image": "https://cdn.shopify.com/s/files/1/0047/8022/8698/files/small_chandelier.png?v=1674035632",
+          "padding": 15.0
+        },
+        {
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzg5MzQ3NDU3MTE0",
+          "image": "https://cdn.shopify.com/s/files/1/0047/8022/8698/files/bubble.png?v=1674035632",
+          "padding": 15.0
+        },
+        {
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE0ODYzMjA3NjM3OA==",
+          "image": "https://cdn.shopify.com/s/files/1/0047/8022/8698/files/wall_lights.png?v=1674035632",
+          "padding": 15.0
+        }
+      ]
+    },
+    {
+      "layout": "bannerImage",
+      "items": [
+        {
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzg5MzQ3NDU3MTE0",
+          "image": "https://cdn.shopify.com/s/files/1/0047/8022/8698/files/free_lighting_blank.png?v=1674044621",
+          "webview": {
+            "url": "https://haroldelectricals.com/pages/free-lighting-consultation"
+          },
+
+          "padding": 5.0,
+             "description": {
+            "text": "CERTIFIED LIGHTING SPECIALISTS | ON-SPOT AUDITS | 10,000+ INSPIRING SPACES",
+            "color": "#FF0000",
+            "fontSize": 8
+          },
+          "title": {
+            "text": "FREE LIGHTING CONSULTATION",
+            "color": "#000000",
+            "fontSize": 14
+          },
+          "button":{
+            "text": "BOOK NOW",
+            "backgroundColor":"#000000",
+            "textColor": "#ffffff"
+          }
+        }
+      ]
+    },
+    {
+      "layout": "bannerImage",
+      "items": [
+        {
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2NTcwMjQwODI4Mg==",
+          "image": "https://cdn.shopify.com/s/files/1/0047/8022/8698/files/clearance_blank.png?v=1674044620",
+          "padding": 5.0,
+          "description": {
+            "text": "GET UPTO 30% OFF",
+            "color": "#FF0000",
+            "fontSize": 8
+          },
+          "title": {
+            "text": "CLEARANCE SALE",
+            "color": "#000000",
+            "fontSize": 14
+          },
+          "button":{
+            "text": "EXPLORE MORE",
+            "backgroundColor":"#000000",
+            "textColor": "#ffffff"
+          }
+        },
+        {
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2NTAyODQwMzI5MA==",
+          "image": "https://cdn.shopify.com/s/files/1/0047/8022/8698/files/Dining_Blank.png?v=1674044621",
+          "padding": 5.0,
+          "featured": true,
+          "description": {
+            "text": "GET UPTO 15% OFF",
+            "color": "#FF0000",
+            "fontSize": 8
+          },
+          "title": {
+            "text": "DINNING CHANDELIER",
+            "color": "#000000",
+            "fontSize": 14
+          },
+          "button":{
+            "text": "EXPLORE MORE",
+            "backgroundColor":"#000000",
+            "textColor": "#ffffff"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Recent View",
+      "layout": "recentView"
+    },
+    {
+      "name": "Duplex Chandeliers",
+      "image": "",
+      "layout": "threeColumn",
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MjQ0MjM4NTQ5OA==",
+      "isSnapping": true
+    },
+    {
+      "name": "Normal Ceiling Chandeliers",
+      "image": "",
+      "layout": "twoColumn",
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE0OTE2MjUyNDc2Mg==",
+      "isSnapping": true
+    },
+    {
+      "layout": "bannerImage",
+      "height": 0.15,
+      "items": [
+        {
+          "image": "https://cdn.shopify.com/s/files/1/0047/8022/8698/files/2.2.jpg?v=1644933183",
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2NTAyODQwMzI5MA==",
+          "padding": 8.0,
+          "radius": 9.0
+        }
+      ]
+    },
+    {
+      "name": "Wall Lights",
+      "image": "",
+      "layout": "staggered",
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE0ODYzMjA3NjM3OA==",
+      "isSnapping": true
+    },
+    {
+      "name": "Recent View",
+      "layout": "recentView"
+    },
+    {
+      "name": "New Arrivals",
+      "layout": "text"
+    },
+    {
+      "layout": "haroldCategory",
+      "name": "Chandeliers",
+      "catId": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE0OTE2MjUyNDc2Mg==",
+      "image": "assets/images/chandeliers_sample.png",
+      "subCategories": [
+        {
+          "name": "Budget Chandeliers (Under Rs 20K)",
+          "catId": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2NTAyODA0Mjg0Mg=="
+        },
+        {
+          "name": "Dining Chandeliers",
+          "catId": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2NTAyODQwMzI5MA=="
+        },
+        {
+          "name": "Modern Designs",
+          "catId": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2NTAyODU2NzEzMA=="
+        },
+        {
+          "name": "Duplex Chandeliers",
+          "catId": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MjQ0MjM4NTQ5OA=="
+        },
+        {
+          "name": "View More",
+          "catId": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE0OTE2MjUyNDc2Mg=="
+        }
+      ]
+    },
+    {
+      "layout": "haroldCategory",
+      "name": "Home Decor",
+      "catId": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE0OTE2MjA2NjAxMA==",
+      "image": "assets/images/home_decore_sample.png",
+      "subCategories": [
+        {
+          "name": "Pendant Lights",
+          "catId": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzg5MzQ3NDU3MTE0"
+        },
+        {
+          "name": "Wall Lights",
+          "catId": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE0ODYzMjA3NjM3OA=="
+        },
+        {
+          "name": "Lamps",
+          "catId": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE0OTE2MjkxNzk3OA=="
+        },
+        {
+          "name": "Fairy Lights",
+          "catId": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzk3MDQ2NTYwODU4"
+        },
+        {
+          "name": "View More",
+          "catId": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE0OTE2MjA2NjAxMA=="
+        }
+      ]
+    },
+    {
+      "layout": "haroldCategory",
+      "name": "Outdoor",
+      "catId": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkzNjE0MDgwMDkw",
+      "image": "assets/images/outdoor_sample.png",
+      "subCategories": [
+        {
+          "name": "Facade",
+          "catId": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkzNjE0MDgwMDkw"
+        },
+        {
+          "name": "Gate Lights",
+          "catId": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkzMjc2MDc4MTcw"
+        },
+        {
+          "name": "Bollard Lights",
+          "catId": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MzQ4MzI5NDgxMA=="
+        },
+        {
+          "name": "Garden Lights",
+          "catId": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE0OTE2MDQ2MDM3OA=="
+        },
+        {
+          "name": "View More",
+          "catId": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkzNjE0MDgwMDkw"
+        }
+      ]
+    },
+    {
+      "layout": "haroldCategory",
+      "name": "Architectural",
+      "catId": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkzOTYzMTI0ODI2",
+      "image": "assets/images/architectural_sample.png",
+      "subCategories": [
+        {
+          "name": "LED Panels",
+          "catId": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzg4OTc2NDkwNTg2"
+        },
+        {
+          "name": "COB",
+          "catId": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzg5MTk5MDE4MDc0"
+        },
+        {
+          "name": "Profile Lights",
+          "catId": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkzOTYzMTI0ODI2"
+        },
+        {
+          "name": "Hanging Profile",
+          "catId": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzg5MzQ3NDU3MTE0"
+        },
+        {
+          "name": "View More",
+          "catId": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzg5MTk5MDE4MDc0"
+        }
+      ]
+    },
+    {
+      "name": "Our Blog Posts",
+      "layout": "blog"
+    }
+  ],
+  "Setting": {
+    "MainColor": "#000000",
+    "ProductListLayout": "list",
+    "StickyHeader": false
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "icon": "home",
+      "pos": 100,
+      "fontFamily": "CupertinoIcons",
+      "key": "p1q235ba14"
+    },
+    {
+      "pos": 200,
+      "layout": "category",
+      "icon": "rectangle_grid_1x2",
+      "fontFamily": "CupertinoIcons",
+      "categoryLayout": "card",
+      "key": "hwu0rkrizt"
+    },
+    {
+      "key": "2reihs4qzc",
+      "icon": "search",
+      "layout": "search",
+      "fontFamily": "CupertinoIcons",
+      "pos": 300,
+      "size": 24
+    },
+    {
+      "pos": 400,
+      "icon": "bag",
+      "layout": "cart",
+      "categoryLayout": "cart",
+      "key": "a2xts0oou6",
+      "fontFamily": "CupertinoIcons"
+    },
+    {
+      "layout": "profile",
+      "fontFamily": "CupertinoIcons",
+      "pos": 500,
+      "key": "69jw5yx12d",
+      "icon": "person"
+    }
+  ],
+  "searchSuggestion": [
+    "chandelier",
+    "black mamba",
+    "wall light",
+    "hanging light",
+    "pendant",
+    "spotlight"
+  ],
+  "OnBoarding": {
+    "data": [
+      {
+        "title": "Welcome to FluxStore",
+        "image": "assets/images/fogg-delivery-1.png",
+        "desc": "Fluxstore is on the way to serve you. ",
+        "background": "#FFF3F2"
+      },
+      {
+        "title": "Connect Surrounding World",
+        "image": "assets/images/fogg-uploading-1.png",
+        "desc": "See all things happening around you just by a click in your phone. Fast, convenient and clean.",
+        "background": "#F2FFFC"
+      },
+      {
+        "title": "Let's Get Started",
+        "image": "fogg-order-completed.png",
+        "desc": "Waiting no more, let's see what we get!",
+        "background": "#F9F2FF"
+      }
+    ]
+  }
+}
